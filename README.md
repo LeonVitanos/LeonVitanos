@@ -1,4 +1,10 @@
-## Hi there 👋
+### VLC Media Player Contributions
+
+My contributions to VLC include work on the Google Summer of Code, building instructions, and UI guidelines.
+
+* [Google Summer of Code 2022](https://github.com/LeonVitanos/vlc-GSoC-2022-Report)
+* [Build Instructions - Configure and build VLC from scratch](https://github.com/LeonVitanos/vlc-build-instructions)
+* [Scientific Research: coming up with UI Guidelines that were also integrated into VLC](https://github.com/LeonVitanos/vlc-guidelines)
 
 <!--
 **LeonVitanos/LeonVitanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
