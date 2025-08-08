@@ -1,22 +1,16 @@
-### VLC Media Player Contributions
+### Wallch
 
-My contributions to VLC include work on the Google Summer of Code, building instructions, and UI guidelines.
+An application I built when I was 15 that I'm now modernizing.
 
-* [Google Summer of Code 2022](https://github.com/LeonVitanos/vlc-GSoC-2022-Report)
-* [Build Instructions - Configure and build VLC from scratch](https://github.com/LeonVitanos/vlc-build-instructions)
-* [Scientific Research: coming up with UI Guidelines that were also integrated into VLC](https://github.com/LeonVitanos/vlc-guidelines)
+* [Wallch](https://github.com/LeonVitanos/Wallch)
 
-<!--
-**LeonVitanos/LeonVitanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### VLC Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I contributed to the VLC project through my work on Google Summer of Code and research into UI guidelines.
+
+* [Google Summer of Code 2022 - Work product summary](https://github.com/LeonVitanos/vlc-GSoC-2022-Report)
+* [Configure and build VLC from scratch](https://github.com/LeonVitanos/vlc-build-instructions)
+* [Scientific Research: Developing UI guidelines for vlc](https://github.com/LeonVitanos/vlc-guidelines)
+
