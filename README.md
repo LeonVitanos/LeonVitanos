@@ -18,3 +18,6 @@ My contributions to the VLC project, including my work on Google Summer of Code,
 * [Scientific Research: Developing UI guidelines for vlc](https://leonvitanos.github.io/vlc-guidelines/)
 * [Configure and build VLC from scratch](https://github.com/LeonVitanos/vlc-build-instructions)
 * [Repository Mining: VLC's language evolution](https://github.com/LeonVitanos/vlc-repository-mining)
+
+#### University Projects
+* Web Development: [Geeks-e-shop](https://github.com/LeonVitanos/Geeks-e-shop), [Walter-White](https://github.com/LeonVitanos/Walter-White) ([Live Demo](https://leonvitanos.github.io/Walter-White/))
