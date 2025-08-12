@@ -21,3 +21,4 @@ My contributions to the VLC project, including my work on Google Summer of Code,
 
 #### University Projects
 * Web Development: [Geeks-e-shop](https://github.com/LeonVitanos/Geeks-e-shop), [Walter-White](https://github.com/LeonVitanos/Walter-White) ([Live Demo](https://leonvitanos.github.io/Walter-White/))
+* Computational Physics: [Particle Systems Simulation](https://github.com/LeonVitanos/particle-systems-simulation), [Fluids Simulation](https://github.com/LeonVitanos/fluids-simulation)
