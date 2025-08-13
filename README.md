@@ -7,8 +7,7 @@ Hi, I'm a software developer specializing in GUI applications with a focus on Qt
 #### My Personal Projects
 
 * **[Wallch](https://github.com/LeonVitanos/Wallch)**: A Linux wallpaper changer that I built at the age of 15 and am now revisiting 15 years later to modernize.
- 
-* **[Format Junkie](https://github.com/LeonVitanos/Format-Junkie)**: A media converter for Linux that I built at 17 and used to participate in the Ubuntu App Showdown competition.
+* **[Format Junkie](https://github.com/LeonVitanos/Format-Junkie)**: A Linux media converter using ffmpeg on the backend that I built at 17 and used to participate in the Ubuntu App Showdown competition.
 
 #### VLC Media Player Contributions
 
